@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-<img width="140" src="https://komarev.com/ghpvc/?username=missBrutus&label=𖦹+visitors+ᝰ.ᐟ&color=FF99CC">
+<img width="140" src="https://komarev.com/ghpvc/?username=missBrutus&label=𖦹+views+ᝰ.ᐟ&color=FF99CC">
 </div>
 
 <br>
